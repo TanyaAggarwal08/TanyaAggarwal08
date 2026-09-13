@@ -27,10 +27,9 @@
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=TanyaAggarwal08&hide_border=true&background=0d1117&stroke=21262d&ring=B3456B&fire=C4527A&currStreakLabel=B3456B&sideLabels=c9d1d9&currStreakNum=f0e6ea&sideNums=f0e6ea&dates=7d8994" alt="contribution streak" />
+<p align="center"><img src="https://streak-stats.demolab.com?user=TanyaAggarwal08&hide_border=true&background=0d1117&stroke=21262d&ring=B3456B&fire=C4527A&currStreakLabel=B3456B&sideLabels=c9d1d9&currStreakNum=f0e6ea&sideNums=f0e6ea&dates=7d8994" alt="contribution streak" /></p>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTanyaAggarwal08&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=8C2F4A&labelColor=161b22" alt="public repos" />
-<img src="https://img.shields.io/github/last-commit/TanyaAggarwal08/ClientPay?style=for-the-badge&label=last%20push&color=C4527A&labelColor=161b22" alt="last push" />
+<p align="center"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTanyaAggarwal08&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=8C2F4A&labelColor=161b22" alt="public repos" />&nbsp;<img src="https://img.shields.io/github/last-commit/TanyaAggarwal08/ClientPay?style=for-the-badge&label=last%20push&color=C4527A&labelColor=161b22" alt="last push" /></p>
 
 <br />
 <br />

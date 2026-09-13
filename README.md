@@ -2,7 +2,7 @@
 
 ## Tanya Aggarwal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=B3456B&width=560&lines=Computing+Science+%40+Trinity+Western+University;Research+Assistant+%E2%80%94+topology+meets+city+data;Julia+%2B+Python+%2B+a+lot+of+coffee" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=B3456B&width=560&lines=Computing+Science+%40+Trinity+Western+University;Research+Assistant+%E2%80%94+topology+meets+city+data;Julia+%2B+Python+%2B+a+lot+of+curiosity" alt="typing" />
 
 <a href="https://tanyaaggarwal08.github.io"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/aggtanya/"><img height="42" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;

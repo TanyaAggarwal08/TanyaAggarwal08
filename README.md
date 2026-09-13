@@ -1,6 +1,8 @@
 <img align="left" width="240" src="assets/tanya_animation.png" alt="Tanya Aggarwal" />
 
-# Tanya Aggarwal
+<div align="center">
+  <p style="font-size: 32px; font-weight: 700;">Tanya Aggarwal</p>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=B3456B&width=560&lines=Computing+Science+%40+Trinity+Western+University;Research+Assistant+%E2%80%94+topology+meets+city+data;Julia+%2B+Python+%2B+a+lot+of+coffee" alt="typing" />
 
@@ -15,9 +17,13 @@
 
 <img src="assets/awards.svg" width="880" alt="Best Paper — IEEE AIoT 2026 · Best Paper — IEMIS 2026 · Best Presenter — IEMIS 2026" />
 
-<br /><br />
+
+<br />
+<hr />
+<br />
 
 <div align="center">
+
 
 <h3>🧰 Toolbox</h3>
 

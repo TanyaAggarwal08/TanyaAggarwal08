@@ -20,9 +20,17 @@
 
 <h3>🧰 Toolbox</h3>
 
-<img src="https://skillicons.dev/icons?i=py,js,dart,flutter,nodejs,firebase,postgres,git,github,vscode&theme=dark" alt="tech stack" />
+<img
+  src="https://skillicons.dev/icons?i=py,js,dart,flutter,nodejs,firebase,postgres,git,github,vscode&theme=dark"
+  alt="tech stack"
+  style="pointer-events: none;"
+/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=julia,r,numpy,pandas,sklearn,latex&theme=dark" alt="Julia, R, NumPy, pandas, scikit-learn, LaTeX" />
+<img
+  src="https://go-skill-icons.vercel.app/api/icons?i=julia,r,numpy,pandas,sklearn,latex&theme=dark"
+  alt="Julia, R, NumPy, pandas, scikit-learn, LaTeX"
+  style="pointer-events: none;"
+/>
 
 <br />
 <br />

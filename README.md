@@ -6,7 +6,7 @@
 
 <a href="https://tanyaaggarwal08.github.io"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/aggtanya/"><img height="42" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
-<a href="[mailto:tanya4284.ta@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tanya4284.ta@gmail.com)"><img height="42" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tanya4284.ta@gmail.com"><img height="42" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;
 <a href="https://www.instagram.com/tanyaaggarwal__1/"><img height="42" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 
 </div>
